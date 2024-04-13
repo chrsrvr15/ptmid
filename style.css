@@ -1,5 +1,5 @@
 /*body {
-		text-align: left;
+		text-align: center;
 		margin-left: auto;
 		margin-right: auto;
 		padding-left: 3%;
@@ -9,7 +9,7 @@
 
 h2 {
 
-	text-align: left
+	text-align: left;
 }
 
 dd {
@@ -19,6 +19,5 @@ dd {
 
 dt {
 
-	text-indent: 50%
+	text-indent: 50%;
 }
-*/
